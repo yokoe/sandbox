@@ -1,10 +1,10 @@
 sandbox
 =======
 
-This is the original one.
+This is the revised one.
 
 ## Installation
 
 ```
-git clone git@github.com:yokoe/sandbox.git
+git clone git@github.com:yokoe/sandbox.git foo
 ```
